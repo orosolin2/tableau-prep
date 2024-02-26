@@ -1,0 +1,18 @@
+Prep Aula 5.tflx
+- Connect to Excel source file
+- Add Excel sheet to canvas
+	- Validate and change as needed the parameters (settings, tables, data sample)
+	- Analyze the profile pane to understand your dataset
+- Add step to aggregate data
+	- Add field to group
+	- Add field to summarize
+	- Analyze the profile pane to understand your dataset
+- Add same Excel sheet to canvas as new table 
+	- Validate and change as needed the parameters (settings, tables, data sample)
+	- Analyze the profile pane to understand your dataset
+- Link the non-summarized table with the summarized table
+	- Define the keys to join and 
+	- Define to show all data from non-summarized table
+- Add step to export the data
+	- Set the parameters to output (output type, file location and name, etc.)
+	- Run the flow
