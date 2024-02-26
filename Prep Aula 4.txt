@@ -1,0 +1,19 @@
+Prep Aula 4.tflx
+- Connect to Excel source file
+- Add Excel sheet to canvas
+	- Validate and change as needed the parameters (settings, tables, data sample)
+- Add secondary Excel sheet to canvas
+	- Validate and change as needed the parameters (settings, tables, data sample)
+- Add step to join the tables on the main table
+	- Link secondary table to main table on joining 
+	- Set the join keys from both tables
+	- Set the join type to show all from main table
+	- Analyze the profile pane to understand your dataset
+	- Validate and change as needed the data types inferred 
+- Add step to export the data
+	- Set the parameters to output (output type, file location and name, etc.)
+	- Run the flow
+- Add step to filter the data
+- Add step to export the data
+	- Set the parameters to output (output type, file location and name, etc.)
+	- Run the flow
