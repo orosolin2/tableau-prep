@@ -1,4 +1,4 @@
-CLASS 01
+Prep Aula 1.tflx
 - Connect to Excel source file
 - Add Excel sheet to canvas
 	- Validate and change as needed the parameters (settings, tables, data sample)
