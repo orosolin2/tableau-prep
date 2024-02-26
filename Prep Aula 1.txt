@@ -1,0 +1,10 @@
+CLASS 01
+- Connect to Excel source file
+- Add Excel sheet to canvas
+	- Validate and change as needed the parameters (settings, tables, data sample)
+- Add step to clean the table
+	- Analyze the profile pane to understand your dataset
+	- Validate and change as needed the data types inferred 
+- Add step to export the data
+	- Set the parameters to output (output type, file location and name, etc.)
+	- Run the flow
