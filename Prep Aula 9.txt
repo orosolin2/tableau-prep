@@ -1,0 +1,13 @@
+Prep Aula 9.tflx
+- Connect to Excel source file
+	- Change the settings to union multiple files
+- Add Excel sheet to canvas
+	- Validate and change as needed the parameters (settings, tables, data sample)
+	- Analyze the profile pane to understand your dataset
+- Add aggregation
+	- Add grouped fields
+	- Add summarized fields
+- Join aggregation with non-aggregation table
+- Add step to export the data
+	- Set the parameters to output (output type, file location and name, etc.)
+	- Run the flow
