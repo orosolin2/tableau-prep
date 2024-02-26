@@ -1,0 +1,19 @@
+Prep Aula 6.tflx
+- Connect to Excel source file
+- Connect to CSV source file
+- Add CSV file to canvas
+	- Validate and change as needed the parameters (settings, tables, data sample)
+	- Analyze the profile pane to understand your dataset
+	- Convert numeric data stored as text to numeric format
+- Add Excel sheet to canvas
+	- Validate and change as needed the parameters (settings, tables, data sample)
+	- Analyze the profile pane to understand your dataset
+- Add join between both files
+	- Define the keys to join and 
+	- Define to show all data from larger file 
+- Add step to clean
+	- Remove duplicate fields (keep those on the larger file)
+	- Rename fields that were duplicated
+- Add step to export the data
+	- Set the parameters to output (output type, file location and name, etc.)
+	- Run the flow
